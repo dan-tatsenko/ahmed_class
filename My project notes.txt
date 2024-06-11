@@ -3,6 +3,7 @@ I am studying AWS and refreshing my knowledge in C# and GitHub
 I also want to expand my knowledge of designing APIs
 
 Things to read:
-1. W3 School AWS
+1. Amazon Web Services
 2. API design
 3. C# v12
+4. Net Core
