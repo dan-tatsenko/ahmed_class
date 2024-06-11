@@ -1,0 +1,3 @@
+I am studying AWS and refreshing my knowledge in C# and GitHub
+
+I also want to expand my knowledge of designing APIs
