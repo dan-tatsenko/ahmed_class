@@ -1,0 +1,5 @@
+My learning resources:
+
+1. https://metanit.com/sharp/tutorial/ (RUS)
+2. https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/#write-your-first-code-using-c-sharp
+3. https://learn.microsoft.com/en-us/training/modules/guided-project-calculate-final-gpa/2-prepare
