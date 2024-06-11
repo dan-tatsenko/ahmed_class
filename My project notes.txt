@@ -7,3 +7,4 @@ Things to read:
 2. API design
 3. C# v12
 4. Net Core
+5. Data analysis (Power BI)

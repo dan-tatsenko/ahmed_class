@@ -1,4 +1,0 @@
-I will be using W3 School for learning AWS
-
-Currently I am looking at AWS Lambda
-https://www.w3schools.com/aws/aws_cloudessentials_awslambda.php
